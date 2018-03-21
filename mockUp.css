@@ -2,14 +2,24 @@
 body{font-family: 'Georgia', 'Garamond', 'Verdana', sans-serif;
 }
 .menu{float: left;
-margin-right: 40px;	
+	margin-right: 40px;
+}
+a.menu_link{color: black;
 }
 .image {float: left;
 }
-.name {padding: 63px;
-  color: #ed1c24;
+.name {padding: 60px;
+	color: #ed1c24;
+	font-size: 45px;
 }
 /*Log-in Page*/
 .center{text-align: center;
 }
 /*Student Home Page*/
+.last5{float: left;
+	margin-right: 30px;
+}
+.tips_notes {float:left; 
+}
+.home_page_headings{font-size: 30px;
+}
