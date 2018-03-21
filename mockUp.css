@@ -7,6 +7,7 @@ margin-right: 40px;
 .image {float: left;
 }
 .name {padding: 63px;
+  color: #ed1c24;
 }
 /*Log-in Page*/
 .center{text-align: center;
