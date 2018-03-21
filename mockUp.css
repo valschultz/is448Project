@@ -1,8 +1,14 @@
-h1{
-	font-family: 'Georgia', 'Garamond', 'Verdana', sans-serif;
-	text-align: center;
-	font-size: 22pt;
+/*all pages*/
+body{font-family: 'Georgia', 'Garamond', 'Verdana', sans-serif;
 }
-.center{
-	text-align: center;
+.menu{float: left;
+margin-right: 40px;	
 }
+.image {float: left;
+}
+.name {padding: 63px;
+}
+/*Log-in Page*/
+.center{text-align: center;
+}
+/*Student Home Page*/
