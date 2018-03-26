@@ -1,25 +1,85 @@
 /*all pages*/
-body{font-family: 'Georgia', 'Garamond', 'Verdana', sans-serif;
+
+body {
+	font-family: 'Georgia', 'Garamond', 'Verdana', sans-serif;
 }
-.menu{float: left;
+
+.menu {
+	float: left;
 	margin-right: 40px;
 }
-a.menu_link{color: black;
+
+a.menu_link {
+	color: black;
 }
-.image {float: left;
+
+.image {
+	float: left;
 }
-.name {padding: 60px;
+
+.name {
+	padding: 60px;
 	color: #ed1c24;
 	font-size: 45px;
 }
+
 /*Log-in Page*/
-.center{text-align: center;
+
+.center {
+	text-align: center;
 }
+
 /*Student Home Page*/
-.last5{float: left;
+
+.last5 {
+	float: left;
 	margin-right: 30px;
 }
-.tips_notes {float:left; 
+
+.tips_notes {
+	float: left;
 }
-.home_page_headings{font-size: 30px;
+
+.home_page_headings {
+	font-size: 30px;
+}
+
+/*andrew's use case - see who's in */
+
+.whos_in_intro {
+	text-align: center;
+}
+
+.whos_in_cardio {
+	margin-bottom: 5px;
+	width: 95%;
+	float: left;
+}
+
+.whos_in_weight_room {
+	margin-bottom: 5px;
+	width: 95%;
+	float: left;
+}
+
+.whos_in_cardio .cardio_recs {
+	display: block;
+	float: left;
+	width: 50px;
+	height: 85px;
+	margin: 10px;
+	border: 2px solid black;
+	background: gray;
+}
+
+.whos_in_cardio .cardio_rec:hover {}
+
+.whos_in_weight_room .weight_room_recs {
+	display: block;
+	float: left;
+	width: 95px;
+	height: 50px;
+	margin: 10px;
+	border: 2px solid black;
+	background: gray;
 }
