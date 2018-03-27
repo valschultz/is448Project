@@ -83,3 +83,9 @@ a.menu_link {
 	border: 2px solid black;
 	background: gray;
 }
+/*Equipment Registration Page*/
+.equ_center {
+	padding: 60px;
+	font-size: 45px;
+	text-align: center;
+}
