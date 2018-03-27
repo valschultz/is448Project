@@ -2,45 +2,40 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title> Student Home Page </title>
+	<title> Equipment Registration </title>
 	<link rel="stylesheet" type="text/css" href="mockUp.css" />
 </head>
 
 <body>
-	<div class = "image">
-		<a href="https://styleguide.umbc.edu/umbc-athletics-logo/">
-		<img src = "images/UMBCretrievers.jpg"  alt = "UMBC retriever" height="150"/>
-		</a>
-	</div>
+<div class = "image">
+	<a href="https://styleguide.umbc.edu/umbc-athletics-logo/">
+	<img src = "images/UMBCretrievers.jpg"  alt = "UMBC retriever" height="150"/>
+	</a>
+</div>
 
-	<!-- The Heading will use the students log in information to display their name-->
-	<h1 class = "equ_center"> Equipment Registration </h1>
+<h1 class = "equ_center"> Equipment Registration </h1>
 
-	<div class = "menu">
-		<a class= "menu_link" href = "https://swe.umbc.edu/~mbrooks3/is448/project/mbrooks3.html">
-		My Page
-		</a>
-		<br /><br />
-		<a class= "menu_link" href ="">
-		See Who's In
-		</a>
-		<br /><br />
-		<a class= "menu_link" href = "">
-		Today's Schedule
-		</a>
-		<br /><br />
-		<a class= "menu_link" href = "https://swe.umbc.edu/~rtsang1/is448/project/raymondusecase2.html">
-		Equipment Registration
-		</a>
-		<br /><br />
-		<a class= "menu_link" href ="">
-		Popular Times
-		</a>
-		<br /><br />
-		<a class= "menu_link" href = "" >
-		Log-Out
-		</a>
-	</div>
+<div class = "menu">
+	<a class= "menu_link" href = "https://swe.umbc.edu/~mbrooks3/is448/project/studenthomepage.html">
+	My Page
+	</a>
+	<br /><br />
+	<a class= "menu_link" href ="https://swe.umbc.edu/~andrewp2/is448/project/whos_in.html">
+	See Who's In
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~rtsang1/is448/project/raymondusecase2.html">
+	Today's Schedule
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "">
+	Equipment Registration
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~schultz4/is448/project/Registration.html" >
+	Log-Out
+	</a>
+</div>
 
 	<p>
 		<h2> What equipment would you like to use? </h2>
