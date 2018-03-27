@@ -1,0 +1,53 @@
+<!--Author: Raymond Tsang -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Daily Schedule </title>
+	<link rel="stylesheet" type="text/css" href="mockUp.css" />
+</head>
+
+<body>
+<div class = "image">
+	<a href="https://styleguide.umbc.edu/umbc-athletics-logo/">
+	<img src = "images/UMBCretrievers.jpg"  alt = "UMBC retriever" height="150"/>
+	</a>
+</div>
+
+<h1 class = "equ_center"> Daily Schedule </h1>
+
+<div class = "menu">
+	<a class= "menu_link" href = "https://swe.umbc.edu/~mbrooks3/is448/project/studenthomepage.html">
+	My Page
+	</a>
+	<br /><br />
+	<a class= "menu_link" href ="https://swe.umbc.edu/~andrewp2/is448/project/whos_in.html">
+	See Who's In
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~rtsang1/is448/project/raymondusecase2.html">
+	Today's Schedule
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "">
+	Equipment Registration
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~schultz4/is448/project/Registration.html" >
+	Log-Out
+	</a>
+</div>
+
+	<p>
+		<h2> What equipment would you like to use? </h2>
+	</p>
+
+	<p><select name="machine" size="1">
+<option value="treadmill">Treadmill</option>
+<option value="elliptical">Elliptical</option>
+<option value="squatrack">Squat Rack</option>
+<option value="benchpress">Bench Press</option>
+</select><br/><br/><input type="button" value="Next"/></p>
+
+</form>
+</body>
+</html>
