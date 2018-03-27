@@ -1,0 +1,80 @@
+<!--Author: Shinyoung Caleb Lee -->
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns = "http://www.w3.org/1999/xhtml">
+	
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<!--Linking this page to the CSS style sheet: mockUp.css-->
+	<link rel="stylesheet" type="text/css" href="mockUp.css" />
+<head>	
+	
+<body>
+	<p>
+				
+	<a href="https://styleguide.umbc.edu/umbc-athletics-logo/">
+	<img src = "UMBC.jpg"  alt = "UMBC retriever" height="150"/>
+	</a>				
+	</p>
+
+
+
+
+
+<div class = "menu">
+	<a class= "menu_link" href = "https://swe.umbc.edu/~mbrooks3/is448/project/studenthomepage.html">
+	My Page
+	</a>
+	<br /><br />
+	<a class= "menu_link" href ="https://swe.umbc.edu/~andrewp2/is448/project/whos_in.html">
+	See Who's In
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~rtsang1/is448/project/daily_schedule.html">
+	Today's Schedule
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~ix32419/is448/Project/equipmentregistrationpart1.html?">
+	Equipment Registration
+	</a>
+	<br /><br />
+	<a class= "menu_link" href = "https://swe.umbc.edu/~schultz4/is448/project/Registration.html" >
+	Log-Out
+	</a>
+</div>
+
+<div class= "statement">
+	<h1>Equipment Registration </h1>
+	<h2>View the available machines below.</h2>
+	<p>
+		Please select which equipment you would like to use then which equipment # and what time you intend on using it:
+	</p>
+
+
+
+<select name="machine" size="1">
+<option value="treadmill#1">Treadmill#1</option>
+<option value="treadmill#2">Treadmill#2</option>
+<option value="treadmill#3">Treadmill#3</option>
+<option value="treadmill#4">Treadmill#4</option>
+<option value="elliptical#1">Elliptical#1</option>
+<option value="elliptical#2">Elliptical#2</option>
+<option value="elliptical#3">Elliptical#3</option>
+<option value="elliptical#4">Elliptical#4</option>
+<option value="squatrack#1">Squat Rack#1</option>
+<option value="squatrack#2">Squat Rack#2</option>
+<option value="benchpress#1">Bench Press#1</option>
+<option value="benchpress#2">Bench Press#2</option>
+
+</select>
+
+
+
+<form action="https://swe.umbc.edu/~ix32419/is448/Project/equipmentregistrationpart2.html"> <input type="submit" value="next" />
+</form>
+</div>
+
+</body>
+
+</html>
